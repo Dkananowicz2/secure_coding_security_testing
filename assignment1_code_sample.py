@@ -1,5 +1,5 @@
 import os
-import pymys
+import pymysql
 from urllib.request import urlopen
 
 db_config = {
